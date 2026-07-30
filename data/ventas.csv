@@ -1,0 +1,16 @@
+id_venta,fecha,producto,categoria,cantidad,precio_unitario,vendedor,region
+1,2024-01-05,Laptop HP,Electronica,2,850.00,Ana Torres,Panama
+2,2024-01-07,Mouse Logitech,Accesorios,5,25.50,Carlos Ruiz,Colon
+3,2024-01-08,Teclado Dell,Accesorios,3,45.00,Ana Torres,Panama
+4,2024-01-10,Monitor LG,Electronica,1,320.00,Maria Perez,Chiriqui
+5,2024-01-12,Laptop Lenovo,Electronica,2,780.00,Carlos Ruiz,Colon
+6,2024-01-15,USB Kingston,Accesorios,10,12.00,Luis Mora,Panama
+7,2024-01-17,Impresora Canon,Oficina,1,210.00,Maria Perez,Chiriqui
+8,2024-01-20,,Electronica,2,150.00,Ana Torres,Panama
+9,2024-01-22,Webcam Logitech,Accesorios,-1,65.00,Carlos Ruiz,Colon
+10,2024-01-25,Disco SSD,Almacenamiento,4,95.00,Luis Mora,Panama
+11,2024-02-01,Laptop HP,Electronica,1,850.00,Ana Torres,Panama
+12,2024-02-03,Router TP-Link,Redes,2,55.00,Maria Perez,Chiriqui
+13,2024-02-05,Auriculares Sony,Accesorios,6,80.00,Carlos Ruiz,Colon
+14,2024-02-08,Monitor Samsung,Electronica,2,299.00,Luis Mora,Panama
+15,2024-02-10,Tablet Lenovo,Electronica,3,350.00,Ana Torres,Panama
